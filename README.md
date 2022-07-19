@@ -1,7 +1,7 @@
 <h3 align="center">Portfolio Site</h3>
 <h3 align="left'>Home</h3>
 <h3 align="left">About</h3>
-![About-1](https://raw.githubusercontent.com/cyberfascinate/cyberfascinate.github.io/main/assets/img/About-1.png)
+<img src="https://raw.githubusercontent.com/cyberfascinate/cyberfascinate.github.io/main/assets/img/About-1.png" alt="About-1" title="About-1">
 ![About-2](https://raw.githubusercontent.com/cyberfascinate/cyberfascinate.github.io/main/assets/img/About-2.png)
 <h3 align="left">Resume</h3>
 ![Resume](https://raw.githubusercontent.com/cyberfascinate/cyberfascinate.github.io/main/assets/img/Resume.png)
