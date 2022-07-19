@@ -1,6 +1,6 @@
 <h3 align="center">Portfolio Site</h3>
 <h3 align="centre">Home</h3>
-[screen-capture (1).webm](https://user-images.githubusercontent.com/105162677/179643799-ca0102f4-d1f2-4c60-b7fe-160325e2cfe7.webm)
+<img src="https://user-images.githubusercontent.com/105162677/179643799-ca0102f4-d1f2-4c60-b7fe-160325e2cfe7.webm" alt="Home" title="Home">
 <h3 align="centre">About</h3>
 <h3 align="left">About-1</h3>                                                                                                                                         
 <img src="https://raw.githubusercontent.com/cyberfascinate/cyberfascinate.github.io/main/assets/img/About-1.png" alt="About-1" title="About-1">
