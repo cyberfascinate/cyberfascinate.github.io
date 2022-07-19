@@ -7,7 +7,7 @@
 <h3 align="Centre">About-2</h3>                                                                                                                                         
 <img src="https://raw.githubusercontent.com/cyberfascinate/cyberfascinate.github.io/main/assets/img/About-2.png" alt="About-2" title="About-2">
 <h3 align="centre">Resume</h3>
-<img src="https://raw.githubusercontent.com/cyberfascinate/cyberfascinate.github.io/main/assets/img/Resume.jpeg" alt="Resume" title="Resume">
+<img src="https://raw.githubusercontent.com/cyberfascinate/cyberfascinate.github.io/main/assets/img/Resume.png" alt="Resume" title="Resume">
 <h3 align="centre">Portfolio</h3>
 Under Development
 <h3 align="centre">Contact</h3>
